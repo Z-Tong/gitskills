@@ -6,3 +6,5 @@ test line 2.
 Creating a old branch is quick and simple.
 
 add merge no-ff
+
+test stash
