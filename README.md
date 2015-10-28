@@ -5,3 +5,4 @@ test line 2.
 
 Creating a old branch is quick AND simple.
 
+add merge no-ff
