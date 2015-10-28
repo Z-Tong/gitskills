@@ -10,3 +10,5 @@ add merge no-ff
 test stash
 
 test learngit modify.
+test1 modify the file.
+test merge!
